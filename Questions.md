@@ -1,13 +1,17 @@
 
-Walk me through the process that occurs when I type a url into the search bar and hit enter.
+## Walk me through the process that occurs when I type a url into the search bar and hit enter.
 You have an excel file you are parsing in node that is 3000 lines and a method that you have to run on every line. The method can not be optimized any further. It runs synchronously. How can you optimize this?
 When would you (a) not put CSS <link> between <head></head>,  and (b) JavaScript <script></script> just before </body>?
 When you type google.com into the browser what happens, go into as much detail as possible
 How do you go about optimizing a webpage?
+What is Cors? How do you use it?
 
 ### CSS
 * What is the css box model
 * Explain the stacking context?
+* How do you design mobile responsive websites? what CSS would you use?
+* What is Mobile first design?
+* Why would you design mobile first?
 
 ### System Architecture Questions
 * What are the pros and cons to a microservice architecture?
@@ -19,6 +23,7 @@ How do you go about optimizing a webpage?
 ### Database
 * Whats the difference between a relational db like sql and non-relational db like mongo
 * Would you ever want to index a database ? (something along those lines )
+* What are the differences between GraphQL and a RestAPI? What are the benefits of each?
 
 ### Javascript Fundamentals
 * What is a closure and how does it relate to side effects
@@ -27,7 +32,12 @@ How do you go about optimizing a webpage?
 * What's the difference between a function expression and function declaration
 * What is the event loop
 * What are promises?
+* Explain Async, show me how you would use it to have to functions run at the same time?
 * When would you consider using JavaScript prototypes?
+
+## React
+* Explain the virtual DOM and how does it work?
+* Explain Class Based Components vs Functional Components?
 
 ### Node Related
 * What is REST
